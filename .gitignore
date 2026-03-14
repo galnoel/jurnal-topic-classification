@@ -2,3 +2,4 @@ archive (1)/
 *.csv
 *.zip
 wandb/
+*.parquet
